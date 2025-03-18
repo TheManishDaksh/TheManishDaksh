@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheManishDaksh .
 - 👀 I’m interested in full-stack-Development .
-- 🌱 I’m currently looking for React Development opportunities .
+- 🌱 I’m currently looking for full-stack Development opportunities .
 - 💞️ I’m looking to collaborate on Development Projects .
 - 📫 My email is manishk78625@gmail.com and profile link given in bio.
 - 😄 I'm also pretty interested in books .
