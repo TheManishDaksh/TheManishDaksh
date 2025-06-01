@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @TheManishDaksh .
-- 👀 I’m interested in Development Projects.
-- 🌱 I’m currently looking for full Stack Development opportunities .
-- 💞️ I’m looking to collaborate on Development Projects .
-- 📫 My email is manishk78625@gmail.com and profile link given in bio.
-- 😄 I'm also pretty interested in books, Cricket .
+- 👀 Interested in Development Projects.
+- 🌱 Currently looking for full Stack Development opportunities .
+- 💞️ looking to collaborate on Development Projects .
+- 📫 found on internet on - .
 
 <!---
 TheManishDaksh/TheManishDaksh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
