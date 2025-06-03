@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheManishDaksh .
-- 👀 Interested in Development Projects.
+- 👋 Hi, I’m Manish Daksh .
+- 👀 I'm a Software Developer.
 - 🌱 Currently looking for full Stack Development opportunities .
 - 💞️ looking to collaborate on Development Projects .
 - 📫 found on internet on - https://manish-smoky.vercel.app .
