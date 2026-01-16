@@ -4,3 +4,4 @@ A full-Stack developer trying to find the place where i belong. I do code, build
 Just mail me - manishk78625@gmail.com
 
 And I am open to any freelancing or full time oppertunities, Pls let me know on my mail.
+In case you need my resume -- https://drive.google.com/file/d/1poDJARZL_W3L7sD1BbdeOgYYVApo3Tx-/view?usp=sharing
